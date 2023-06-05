@@ -11,12 +11,10 @@ Me estoy dedicando a especializarme en el desarrollo de aplicaciones web, API´s
 ## Tecnologías:
 [![ISO27001](https://img.shields.io/badge/ISO27001-999999?style=for-the-badge&logo=ISO27001&logoColor=white&labelColor=101010)]()
 [![Scrum](https://img.shields.io/badge/Scrum-FA7343?style=for-the-badge&logo=Scrum&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C-1575F9?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 </br>
 [![API's](https://img.shields.io/badge/API's-3DDC84?style=for-the-badge&logo=API's&logoColor=white&labelColor=101010)]()
 [![WS](https://img.shields.io/badge/WebService-0095D5?style=for-the-badge&logo=WebService&logoColor=white&labelColor=101010)]()
 </br>
-[![C#](https://img.shields.io/badge/C#-yellow?style=for-the-badge&logo=C#&logoColor=white&labelColor=101010)]()
 [![ASP.NETCore](https://img.shields.io/badge/ASP.NETCore-007396?style=for-the-badge&logo=ASP.NETCore&logoColor=white&labelColor=101010)]()
 [![Azure](https://img.shields.io/badge/Azure-F7DF1E?style=for-the-badge&logo=Azuret&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
